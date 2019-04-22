@@ -6,7 +6,7 @@ https://fatiherikli.github.io/brainfuck-visualizer/#Cg==
 ### ASCII code  
 http://www3.nit.ac.jp/~tamura/ex2/ascii.html
 
-#### brainfuck  
+### brainfuck  
 ###### >	ポインタをインクリメント （右にずらす）  
 ###### <	ポインタをデクリメント (左にずらす）  
 ###### +	ポインタの値をインクリメント  
